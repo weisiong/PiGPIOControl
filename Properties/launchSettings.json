@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PiGpioControl": {
+      "commandName": "Project"
+    },
+    "remotedebug": {
+      "commandName": "Project"
+    }
+  }
+}
